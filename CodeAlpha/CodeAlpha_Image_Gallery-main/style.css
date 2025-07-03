@@ -1,0 +1,266 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to left, rgb(46, 152, 212), rgb(13, 13, 31));
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: -1;
+}
+
+header {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+    color: white;
+}
+
+nav {
+    background: #007bff;
+    width: 100%;
+    padding: 0px 0;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform-style: preserve-3d;
+    transform: rotateY('30deg');
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+
+}
+
+nav ul li a:hover {
+    background: #0056b3;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 0px;
+    display: flex;
+    transform: scale(1.3);
+    transition-duration: .5s;
+    transform-origin: top center;
+    box-shadow: 8px 8px 16px #013c7a;
+}
+
+.bd {
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0056b3;
+    width: 50%;
+    justify-content: center;
+    border-radius: 10px;
+    margin-left: 25%;
+    padding: 15px;
+    transform: scale(1.2);
+    box-shadow: 10px 10px 20px #080f18;
+    color: white;
+
+}
+
+.container {
+    max-width: 2000px;
+    text-align: center;
+    font-size: 30px;
+    height: 250px;
+}
+
+.para {
+    font-family: sans-serif;
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px #013c7a;
+    color: #f4f4f4;
+    line-height: 1.6;
+    font-size: 23px;
+    background: linear-gradient(to right, #1095d8, #0769aa);
+    background: linear-gradient(to bottom, #00aaff, #3e68f1);
+    justify-content: start;
+    align-items: start;
+    text-align: center;
+
+}
+
+footer ul li {
+    list-style: none;
+
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+    display: flex;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: -4.5%;
+    justify-content: center;
+    background-color: #013c7a;
+    padding: 20px;
+    border-radius: 30px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 10px 10px 20px #041f3b;
+
+
+
+}
+
+footer ul li a:hover {
+    transform: scale(1.5);
+    transition-duration: .5s;
+    transform-origin: top center;
+}
+
+.gallery {
+    display: flex;
+    background-color: #0056b3;
+    margin: 0;
+    padding: 0;
+
+}
+
+.active2 {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 30px 30px 30px;
+    background-color: #0370e6;
+}
+
+.active1 {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 30px 30px 30px;
+    background-color: #0370e6;
+}
+
+.active3 {
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 30px 30px 30px;
+    background-color: #0370e6;
+}
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+.animals,
+.architechs,
+.moutains {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+
+ul img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+
+.ho,
+.hz,
+.hw {
+    font-size: 1.5rem;
+    margin: 20px 0 10px;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: #013c7a;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #041f3b;
+}
+
+.animals>li:hover {
+    transform: scale(1.2);
+    transition: top center;
+    transition-duration: .5s;
+}
+
+
+.architechs>li:hover {
+    transform: scale(1.2);
+    transition: top center;
+    transition-duration: .5s;
+}
+
+.moutains>li:hover {
+    transform: scale(1.2);
+    transition: top center;
+    transition-duration: .2s;
+}
+
+
+
+ul image {
+    object-fit: cover;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    background-color: #013c7a;
+    color: #f4f4f4;
+    font-family: sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px #041f3b;
+    font-size: 25px;
+    word-spacing: 1px;
+    align-items: center;
+    height: 500px;
+    width: 550px;
+}
+
+.about:hover {
+
+    display: flex;
+    transform: scale(1.1);
+    transition-duration: .5s;
+    transform-origin: top center;
+    box-shadow: 10px 10px 20px #041f3b;
+
+}

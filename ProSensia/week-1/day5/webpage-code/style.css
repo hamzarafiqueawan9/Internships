@@ -1,0 +1,103 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: #fff;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #FFD700;
+    color: #000;
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar .logo span {
+    color: #444;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to bottom, #FFCC00, #FF9900);
+    color: #000;
+    padding: 60px 40px;
+    text-align: center;
+    box-shadow: 0 0 12px rgba(0,0,0,0.5);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.hero h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.learn-more {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+/* About Section */
+.about {
+    background-color: #FFCC00;
+    color: black;
+    padding: 30px 40px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+.about h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+/* Footer */
+footer {
+    background-color: #111;
+    color: #FFD700;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 18px;
+}
+
+footer .footer-logo span {
+    color: #FFCC00;
+}
