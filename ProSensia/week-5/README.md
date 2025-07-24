@@ -30,3 +30,15 @@
 
 **Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
 📧 alihydershar688@example.com
+
+
+ 
+# week-5
+### 📘 Day 4 Report –array methods in js
+**Repository:** `week5//day4`  
+**Date:** July 24, 2025  
+**Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
+📧 hamzarafiqueawan9@gmail.com  
+
+**Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
+📧 alihydershar688@example.com
