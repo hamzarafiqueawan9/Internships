@@ -20,3 +20,16 @@
 
 **Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
 📧 alihydershar688@example.com
+
+
+
+# week-6
+### 📘 Day 3 Report –usestate in react 
+
+**Repository:** `week6//day3`  
+**Date:** July 30, 2025  
+**Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
+📧 hamzarafiqueawan9@gmail.com  
+
+**Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
+📧 alihydershar688@example.com
