@@ -34,11 +34,27 @@
 **Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
 📧 alihydershar688@example.com
 
+
+
 # week-6
 ### 📘 Day 4 Report  - list, map() in react 
 
 **Repository:** `week6//day4`  
 **Date:** July 31, 2025  
+**Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
+📧 hamzarafiqueawan9@gmail.com  
+
+**Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
+📧 alihydershar688@example.com
+
+
+
+
+# week-6
+### 📘 Day 5 Report  - forms in react 
+
+**Repository:** `week6//day5`  
+**Date:** August 1, 2025  
 **Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
 📧 hamzarafiqueawan9@gmail.com  
 
