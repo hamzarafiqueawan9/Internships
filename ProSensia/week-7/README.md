@@ -32,3 +32,15 @@
 
 **Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
 📧 alihydershar688@example.com
+
+
+# week-7
+### 📘 Day 4  Report –custom hook in react
+
+**Repository:** `week7//day4`  
+**Date:** August 7 , 2025  
+**Prepared by:** [@hamzarafiqueawan9](https://github.com/hamzarafiqueawan9)  
+📧 hamzarafiqueawan9@gmail.com  
+
+**Reviewed by:** [@alihydershar688](https://github.com/alihydershar688)  
+📧 alihydershar688@example.com
